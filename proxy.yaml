@@ -1,10 +1,10 @@
 payload:
     - gsa.apple.com
-    - *.qichiyu.com # 代理配置帮助
-    - *.hembed.com # hanime1
-    - *.growcdnssedge.com # hanime1
-    - *.doppiocdn.org # hanime1
-    - *.juicyads.me # hanime1
-    - *.dandanplay.net # dandan play
-    - *.hath.network # ehentai
+    - +.qichiyu.com # 代理配置帮助
+    - +.hembed.com # hanime1
+    - +.growcdnssedge.com # hanime1
+    - +.doppiocdn.org # hanime1
+    - +.juicyads.me # hanime1
+    - +.dandanplay.net # dandan play
+    - +.hath.network # ehentai
     
